@@ -1,0 +1,14 @@
+C:\Users\Sadiq\Desktop\P130\C#\StackHeap\HeapStack\HeapStack\bin\Debug\netcoreapp3.1\HeapStack.exe
+C:\Users\Sadiq\Desktop\P130\C#\StackHeap\HeapStack\HeapStack\bin\Debug\netcoreapp3.1\HeapStack.deps.json
+C:\Users\Sadiq\Desktop\P130\C#\StackHeap\HeapStack\HeapStack\bin\Debug\netcoreapp3.1\HeapStack.runtimeconfig.json
+C:\Users\Sadiq\Desktop\P130\C#\StackHeap\HeapStack\HeapStack\bin\Debug\netcoreapp3.1\HeapStack.runtimeconfig.dev.json
+C:\Users\Sadiq\Desktop\P130\C#\StackHeap\HeapStack\HeapStack\bin\Debug\netcoreapp3.1\HeapStack.dll
+C:\Users\Sadiq\Desktop\P130\C#\StackHeap\HeapStack\HeapStack\bin\Debug\netcoreapp3.1\HeapStack.pdb
+C:\Users\Sadiq\Desktop\P130\C#\StackHeap\HeapStack\HeapStack\obj\Debug\netcoreapp3.1\HeapStack.csproj.AssemblyReference.cache
+C:\Users\Sadiq\Desktop\P130\C#\StackHeap\HeapStack\HeapStack\obj\Debug\netcoreapp3.1\HeapStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sadiq\Desktop\P130\C#\StackHeap\HeapStack\HeapStack\obj\Debug\netcoreapp3.1\HeapStack.AssemblyInfoInputs.cache
+C:\Users\Sadiq\Desktop\P130\C#\StackHeap\HeapStack\HeapStack\obj\Debug\netcoreapp3.1\HeapStack.AssemblyInfo.cs
+C:\Users\Sadiq\Desktop\P130\C#\StackHeap\HeapStack\HeapStack\obj\Debug\netcoreapp3.1\HeapStack.csproj.CoreCompileInputs.cache
+C:\Users\Sadiq\Desktop\P130\C#\StackHeap\HeapStack\HeapStack\obj\Debug\netcoreapp3.1\HeapStack.dll
+C:\Users\Sadiq\Desktop\P130\C#\StackHeap\HeapStack\HeapStack\obj\Debug\netcoreapp3.1\HeapStack.pdb
+C:\Users\Sadiq\Desktop\P130\C#\StackHeap\HeapStack\HeapStack\obj\Debug\netcoreapp3.1\HeapStack.genruntimeconfig.cache
